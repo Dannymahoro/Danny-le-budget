@@ -1,0 +1,6 @@
+{
+  "name": "Danny le budget",
+  "description": "Application étudiante de suivi et réduction du budget avec pavé numérique rapide, catégorisation, statistiques et alertes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
